@@ -1,0 +1,18 @@
+h2{
+    color: rgb(255, 51, 0);
+    text-align: center;
+}
+/* h1{
+    color: green;
+} */
+p{
+    color: brown;
+    background-color:rgb(97, 174, 83);
+
+}
+.par{
+    color: red;
+}
+#aps{
+    color: pink;
+}
