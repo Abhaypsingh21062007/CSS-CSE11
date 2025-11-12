@@ -7,7 +7,9 @@ h2{
 } */
 p{
     color: brown;
-    background-color:rgb(97, 174, 83);
+    background-color:rgb(100, 192, 84);
+    font-size: 25px ;
+    text-align: center;
 
 }
 .par{
@@ -15,4 +17,18 @@ p{
 }
 #aps{
     color: pink;
+}
+div{
+    height: 200px;
+    width: 200px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 255, 106);
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+    margin: 50px;
+    border: 1px double black;
+}
+h4{
+    color: red;
 }
