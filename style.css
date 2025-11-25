@@ -32,3 +32,9 @@ div{
 h4{
     color: red;
 }
+.APS {
+    display: block;
+}
+.rs {
+    display: inline;
+}
