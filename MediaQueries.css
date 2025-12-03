@@ -1,0 +1,40 @@
+/* @media(condition){
+    CSS styles here
+} 
+320px - small phones
+480px - large phones
+768px - Tablets
+1024 - small laptops
+1200px+ - Desktops */
+
+/* @media(max-width:768px){
+    p{
+        font-size: 25px;
+        background-color: azure;
+    }
+} */
+ 
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(76, 228, 76);
+    }
+@media(min-width:768px){
+    .box{
+        background-attachment: red;
+    }
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}
+
+
+
